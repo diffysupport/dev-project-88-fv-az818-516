@@ -1,12 +1,12 @@
 basic:
-    name: 'Quinn Hahn'
+    name: 'Christ Rice'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://www.greenholt.com/pariatur-quae-rem-voluptates-optio-perferendis-sit'
-        - 'https://barton.com/neque-ipsa-illum-magni-quaerat-consequatur-nesciunt-tempora.html'
+        - 'https://www.rice.info/eius-quis-laboriosam-occaecati-odit'
+        - 'https://gerlach.org/'
     monitoring:
         days: {  }
         type: ''
